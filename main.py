@@ -2,7 +2,6 @@ from pet import Pet
 
 # Create a pet
 my_pet = Pet("Buddy")
-
 # Check initial status
 my_pet.get_status()
 
