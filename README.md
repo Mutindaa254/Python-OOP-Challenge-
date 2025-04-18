@@ -1,4 +1,4 @@
-# 🐶🐾 Digital Pet – Python OOP Challenge
+git # 🐶🐾 Digital Pet – Python OOP Challenge
 
 Welcome to this Digital Pet project! This was built as part of a fun Object-Oriented Programming challenge using Python 🐍. The goal was to design a virtual pet that you can feed, play with, and train—all using class-based programming.
 
